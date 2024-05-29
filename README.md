@@ -1,7 +1,7 @@
 # Disclaimer
 To whom it may concern, ***I do not condone cheating***. This project has ***educational purposes only***.
 
-### External Client Modifications for Unity Games built on [memflow](https://github.com/memflow/memflow)
+### External Client Modifications for Unity Games built on [memflow](https://github.com/memflow/memflow). Bypasses kernel level anti-tamper solutions.
 
 It's an example speed hack that can work on any ***Unity 2022.3.6f1 IL2CPP*** game. 
 
